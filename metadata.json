@@ -1,0 +1,6 @@
+{
+  "name": "Berpikir Komputasional SMP Kelas 7",
+  "description": "Platform pembelajaran interaktif Berpikir Komputasional Fase D SMP Kelas 7 mencakup Pengelolaan Data, Pemecahan Masalah, dan Pengujian Instruksi dengan video animasi, kuis, dan forum diskusi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
